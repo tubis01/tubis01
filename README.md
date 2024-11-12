@@ -1,8 +1,7 @@
 
 
-# HOLA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Mynor Baran
-
-Hola, Soy Mynor Estuardo Barab Leiva Soy apasionado de la tecnologia y la programacion 💻. Actualmente estudio ingenieria en sistemas en la Universidad Mariano Galvez De Guatelma. Tengo 23 años y he cerrado pensum en mi carrera.
+# HOLA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Mynor Barán
+ Soy apasionado de la tecnologia y la programacion 💻. Actualmente estudio ingenieria en sistemas en la Universidad Mariano Galvez De Guatelma. Tengo 23 años y he cerrado pensum en mi carrera.
 
 - Me encanta la naturaleza 🎣🌲, el deporte 💪, y la lectura. 
 - Disfruto aprender cosas nueva y tomar notas. 📄.
